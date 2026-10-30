@@ -12,7 +12,7 @@
 
 - We vary four speech levels through Korean addressee honorification, modifying only the features for their realization.
 
-- From 400 HarmBench queries, we construct 1,600 variants and evaluate 13 LLMs under two decoding regimes, yielding approximately 120k responses.
+- From 400 [HarmBench](https://github.com/centerforaisafety/HarmBench) queries, we construct 1,600 variants and evaluate 13 LLMs under two decoding regimes, yielding approximately 120k responses.
 
 
 
